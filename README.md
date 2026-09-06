@@ -7,7 +7,7 @@ GitHub
 ```
 git clone --depth 1 https://github.com/ye3011/normal-character ./plugins/miao-plugin/resources/profile/normal-character
 ```
-Gitcode
+Gitcode（这个源违规了，所以变成私库源，有需要的➕Q：3337194602）
 ```
 git clone --depth 1 https://gitcode.com/RainFoam0693/normal-character.git ./plugins/miao-plugin/resources/profile/normal-character
 ```
